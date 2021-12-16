@@ -6,7 +6,7 @@
 
 how_many_people = 2
 Kilian Provost --> 1
-
+Irina-B Nimerenco --> 2
 Antoine Gilliet --> 3
 
 

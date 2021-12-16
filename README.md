@@ -4,7 +4,7 @@
 
 # mettez ici le nombre de personnes dans votre groupe : 3
 
-how_many_people = 2
+how_many_people = 3
 Kilian Provost --> 1
 Irina-B Nimerenco --> 2
 Antoine Gilliet --> 3

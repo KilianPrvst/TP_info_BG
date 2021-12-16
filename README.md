@@ -1,10 +1,16 @@
+<!-- #region -->
 # copier dans le fichier README.md
 # les lignes produites par ce code
 
 # mettez ici le nombre de personnes dans votre groupe 3
 
-how_many_people = 4
+how_many_people = 2
+Kilian Provost --> 1
+
+
+
 
 for i in range(1, how_many_people + 1):
     print(f"{i:02d} Nom:")
     print(f"{i:02d} github:")
+<!-- #endregion -->

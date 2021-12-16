@@ -5,7 +5,7 @@
 # mettez ici le nombre de personnes dans votre groupe : 3
 
 how_many_people = 3
-Kilian Provost --> 1
+Kilian Provost --> 1 inutile
 Irina-B Nimerenco --> 2; id_github : irinaaaaaaaaaa
 Antoine Gilliet --> 3
 

@@ -6,7 +6,7 @@
 
 how_many_people = 3
 Kilian Provost --> 1
-Irina-B Nimerenco --> 2
+Irina-B Nimerenco --> 2; id_github : irinaaaaaaaaaa
 Antoine Gilliet --> 3
 
 
